@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4952_png_jpg.rf.afce7b967f68d4c7bbf791ef3984eb9b.jpg</filename>
+	<path>4952_png_jpg.rf.afce7b967f68d4c7bbf791ef3984eb9b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Advance Block</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>326</xmin>
+			<xmax>555</xmax>
+			<ymin>99</ymin>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

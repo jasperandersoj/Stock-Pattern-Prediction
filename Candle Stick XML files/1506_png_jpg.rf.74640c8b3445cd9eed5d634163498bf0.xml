@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1506_png_jpg.rf.74640c8b3445cd9eed5d634163498bf0.jpg</filename>
+	<path>1506_png_jpg.rf.74640c8b3445cd9eed5d634163498bf0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Three Line Strike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>230</xmin>
+			<xmax>492</xmax>
+			<ymin>224</ymin>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

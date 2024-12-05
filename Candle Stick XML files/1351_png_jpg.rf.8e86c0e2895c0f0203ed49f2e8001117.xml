@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1351_png_jpg.rf.8e86c0e2895c0f0203ed49f2e8001117.jpg</filename>
+	<path>1351_png_jpg.rf.8e86c0e2895c0f0203ed49f2e8001117.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marubozu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>406</xmin>
+			<xmax>562</xmax>
+			<ymin>331</ymin>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

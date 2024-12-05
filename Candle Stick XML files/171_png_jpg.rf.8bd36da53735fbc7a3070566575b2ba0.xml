@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>171_png_jpg.rf.8bd36da53735fbc7a3070566575b2ba0.jpg</filename>
+	<path>171_png_jpg.rf.8bd36da53735fbc7a3070566575b2ba0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Three Outside Up-Down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>295</xmin>
+			<xmax>492</xmax>
+			<ymin>148</ymin>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

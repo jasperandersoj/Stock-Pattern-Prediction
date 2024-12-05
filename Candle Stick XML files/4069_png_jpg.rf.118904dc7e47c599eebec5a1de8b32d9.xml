@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4069_png_jpg.rf.118904dc7e47c599eebec5a1de8b32d9.jpg</filename>
+	<path>4069_png_jpg.rf.118904dc7e47c599eebec5a1de8b32d9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>406</xmin>
+			<xmax>562</xmax>
+			<ymin>97</ymin>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

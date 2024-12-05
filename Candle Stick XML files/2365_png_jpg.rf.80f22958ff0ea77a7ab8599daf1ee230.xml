@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2365_png_jpg.rf.80f22958ff0ea77a7ab8599daf1ee230.jpg</filename>
+	<path>2365_png_jpg.rf.80f22958ff0ea77a7ab8599daf1ee230.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Upside-Downside Gap Three Methods</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>467</xmax>
+			<ymin>99</ymin>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>

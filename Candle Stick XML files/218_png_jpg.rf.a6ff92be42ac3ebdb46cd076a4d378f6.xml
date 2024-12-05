@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>218_png_jpg.rf.a6ff92be42ac3ebdb46cd076a4d378f6.jpg</filename>
+	<path>218_png_jpg.rf.a6ff92be42ac3ebdb46cd076a4d378f6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>404</xmin>
+			<xmax>482</xmax>
+			<ymin>390</ymin>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

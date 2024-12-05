@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3571_png_jpg.rf.20dbc824f3bd68bc4bb585135d165cf9.jpg</filename>
+	<path>3571_png_jpg.rf.20dbc824f3bd68bc4bb585135d165cf9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spinning Top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>444</xmin>
+			<xmax>560</xmax>
+			<ymin>165</ymin>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

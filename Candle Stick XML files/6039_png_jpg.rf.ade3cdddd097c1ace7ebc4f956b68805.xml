@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>6039_png_jpg.rf.ade3cdddd097c1ace7ebc4f956b68805.jpg</filename>
+	<path>6039_png_jpg.rf.ade3cdddd097c1ace7ebc4f956b68805.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gravestone Doji</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>329</xmin>
+			<xmax>445</xmax>
+			<ymin>95</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

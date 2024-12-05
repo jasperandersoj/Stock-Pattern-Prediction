@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>278_png_jpg.rf.98883eb6698ea7e06961a5367e860b2a.jpg</filename>
+	<path>278_png_jpg.rf.98883eb6698ea7e06961a5367e860b2a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hanging Man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>328</xmin>
+			<xmax>566</xmax>
+			<ymin>193</ymin>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1616_png_jpg.rf.22765d3a06f195f43fc181d447589e08.jpg</filename>
+	<path>1616_png_jpg.rf.22765d3a06f195f43fc181d447589e08.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Evening Doji Star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>252</xmin>
+			<xmax>482</xmax>
+			<ymin>99</ymin>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

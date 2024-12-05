@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4719_png_jpg.rf.3e29fedb1750ff4a4a94dc937e146d0a.jpg</filename>
+	<path>4719_png_jpg.rf.3e29fedb1750ff4a4a94dc937e146d0a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Morning Doji Star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>295</xmin>
+			<xmax>492</xmax>
+			<ymin>277</ymin>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>

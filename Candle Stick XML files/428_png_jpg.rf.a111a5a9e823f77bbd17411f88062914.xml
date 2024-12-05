@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>428_png_jpg.rf.a111a5a9e823f77bbd17411f88062914.jpg</filename>
+	<path>428_png_jpg.rf.a111a5a9e823f77bbd17411f88062914.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hikkake Pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>229</xmin>
+			<xmax>555</xmax>
+			<ymin>99</ymin>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

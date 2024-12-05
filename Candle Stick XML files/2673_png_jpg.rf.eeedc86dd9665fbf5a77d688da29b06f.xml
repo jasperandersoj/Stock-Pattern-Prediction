@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2673_png_jpg.rf.eeedc86dd9665fbf5a77d688da29b06f.jpg</filename>
+	<path>2673_png_jpg.rf.eeedc86dd9665fbf5a77d688da29b06f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dragonfly Doji</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>328</xmin>
+			<xmax>566</xmax>
+			<ymin>96</ymin>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>
