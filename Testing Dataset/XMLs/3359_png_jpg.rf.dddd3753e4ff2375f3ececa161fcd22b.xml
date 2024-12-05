@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3359_png_jpg.rf.dddd3753e4ff2375f3ececa161fcd22b.jpg</filename>
+	<path>3359_png_jpg.rf.dddd3753e4ff2375f3ececa161fcd22b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unique 3 River</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>467</xmax>
+			<ymin>170</ymin>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

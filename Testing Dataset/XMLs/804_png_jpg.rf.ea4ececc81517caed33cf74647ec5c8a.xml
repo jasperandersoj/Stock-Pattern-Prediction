@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>804_png_jpg.rf.ea4ececc81517caed33cf74647ec5c8a.jpg</filename>
+	<path>804_png_jpg.rf.ea4ececc81517caed33cf74647ec5c8a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Evening Star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>280</xmin>
+			<xmax>555</xmax>
+			<ymin>216</ymin>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>
